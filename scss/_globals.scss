@@ -1,0 +1,31 @@
+/*==================== BASE ====================*/
+
+.resalta {
+  font-size: 18px;
+  color: $text-second-color-card;
+  font-weight: 500;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: $body-first-color;
+}
+
+.parrafo {
+  text-align: justify;
+}
+img {
+  border-radius: 1px;
+}
+
+.container_o {
+  display: flex;
+  align-items: center;
+}
