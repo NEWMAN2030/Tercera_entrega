@@ -14,7 +14,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  /* min-height: 100vh;*/
   background: $body-first-color;
 }
 
@@ -28,6 +28,7 @@ img {
 .container_o {
   display: flex;
   align-items: center;
+  background: $body-first-color;
 }
 .alineacion {
   display: flex;
