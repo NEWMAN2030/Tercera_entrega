@@ -35,6 +35,12 @@ img {
   align-items: center;
 }
 
+.alineacion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /*==================== Pedidos ====================*/
 .card_o {
   position: relative;
